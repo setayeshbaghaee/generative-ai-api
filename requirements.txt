@@ -1,0 +1,6 @@
+openai
+cohere
+requests
+gradio
+langchain
+langchain-openai

@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+generated_speech.mp3
+sample.png
+sample_audio.m4a
