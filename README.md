@@ -1,4 +1,4 @@
-# Generative AI API Playground
+# Generative AI API 
 
 A collection of hands-on experiments with Generative AI APIs and multimodal applications in Python.
 
@@ -6,7 +6,6 @@ A collection of hands-on experiments with Generative AI APIs and multimodal appl
 
 - OpenAI-compatible chat APIs
 - Cohere chat API
-- AvalAI integration
 - OpenRouter / multimodal model calls
 - Text-to-Speech and Speech-to-Text
 - Image generation and image understanding
@@ -29,4 +28,3 @@ Some examples also use local files such as `sample.png` and `sample_audio.m4a`.
 ## Learning Context
 
 This repository contains cleaned and organized hands-on exercises completed while studying Generative AI APIs.  
-The examples are presented as learning experiments rather than as work authored entirely from scratch.
